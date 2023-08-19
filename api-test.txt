@@ -1,0 +1,2 @@
+npm install 
+manualmente qualquer coisa : (yard express nodemon mysql cors)
